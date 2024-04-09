@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
-main()
+
+int main()
 {
 int i=0,pno[10],bt[10],n,wt[10],temp=0,j,tt[10];
 
