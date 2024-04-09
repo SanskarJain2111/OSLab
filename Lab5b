@@ -5,7 +5,6 @@ int buffer[10], bufsize, in, out, produce, consume, choice=0;
 in = 0;
 out = 0;
 bufsize = 10;
-Lab Manual of OS Lab (CCP206) Acad. Year: 2023-24
 while (choice !=3)
 {
 printf(“\n1. Produce \t 2. Consume \t3. Exit”);
